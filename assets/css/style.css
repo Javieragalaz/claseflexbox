@@ -1,11 +1,12 @@
-.boxes{
+.boxes {
     display: flex;
-  
+
 }
 
 
 .box {
     width: 25%;
-    justify-content: center;
+    display: flex;
+
 }
-    
+
